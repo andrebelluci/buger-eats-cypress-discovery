@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "André Belluci",
+        "cpf": "37045231865",
+        "email": "andrebelluci@gmail.com",
+        "whatsapp": "17991446829",
+        "address": {
+            "postalcode": "15081310",
+            "street": "Rua Adélia Muanis Aydar",
+            "number": "971",
+            "details": "Atrás da Rodorib",
+            "district": "Jardim São Marco",
+            "city_state": "São José do Rio Preto/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Barbara Teodoro",
+        "cpf": "3704523186A",
+        "email": "barbarateorodo@gmail.com",
+        "whatsapp": "17981024391",
+        "address": {
+            "postalcode": "15081310",
+            "street": "Rua Adélia Muanis Aydar",
+            "number": "971",
+            "details": "Atrás da Rodorib",
+            "district": "Jardim São Marco",
+            "city_state": "São José do Rio Preto/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "André Belluci",
+        "cpf": "37045231865",
+        "email": "andrebellucigmail.com",
+        "whatsapp": "17991446829",
+        "address": {
+            "postalcode": "15081310",
+            "street": "Rua Adélia Muanis Aydar",
+            "number": "971",
+            "details": "Atrás da Rodorib",
+            "district": "Jardim São Marco",
+            "city_state": "São José do Rio Preto/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
